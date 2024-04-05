@@ -1,4 +1,4 @@
-// Size of canvas. These get updated to fill the whole browser.
+// /Size of canvas. These get updated to fill the whole browser.
 let width = 150;
 let height = 150;
 
